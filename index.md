@@ -2,7 +2,7 @@
 
 What's up? hey\|you
 
-I am a senior at lehigh graduating in May 2025. I'm studying Statistics and Finance and am!
+I am a senior at lehigh graduating in May 2025. I'm studying Statistics and Finance and am heading into banking at Deutsche Bank. I'm very interested in the commodities, technology and industrials industries!
 
 
 
