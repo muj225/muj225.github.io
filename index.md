@@ -2,7 +2,7 @@
 
 What's up? hey\|you
 
-I am an awesome student at Lehigh, you should hire me!
+I am a senior at lehigh graduating in May 2025. I'm studying Statistics and Finance and am!
 
 
 
