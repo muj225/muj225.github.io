@@ -4,17 +4,20 @@ What's up? hey\|you
 
 I am an awesome student at Lehigh, you should hire me!
 
-<!-- Upload your own photo and change the path -->
 
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
-
----
 
 ## Portfolio
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
+
+
+_**[test file](midterm_summary)**_
+
+You can show off your midterm analysis by moving the report components and output into this file. Or...
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 
 _**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
 
@@ -59,3 +62,11 @@ Maybe include a little about these, especially if they are the kinds of things t
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
+
+<!-- Upload your own photo and change the path -->
+
+<p style="text-align:center;">
+  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+</p>
+
+---
