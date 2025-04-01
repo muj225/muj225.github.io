@@ -15,7 +15,7 @@ _**[test file](midterm_summary)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
@@ -68,5 +68,7 @@ Maybe include a little about these, especially if they are the kinds of things t
 <p style="text-align:center;">
   <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
 </p>
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
