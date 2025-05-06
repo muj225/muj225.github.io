@@ -9,7 +9,7 @@ I am a senior at lehigh graduating in May 2025. I'm studying Statistics and Fina
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
 
-_**[test file](midterm_summary)**_
+_**[test file](https://thereddestbulls.streamlit.app/)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
