@@ -47,9 +47,7 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I want to get exposure to different deal processes through my investment banking role at Deutsche Bank. Afterwards, I aim to pivot to an investing role where I can leverage my knowledge in company analysis to identify undervalued opportunities in the Industrials and Commodities spaces. Investing required discipline in terms of understanding what a business is truly worth and not what it's being marketed as. I'm excited to build this investor lens!
 
 ---
 
