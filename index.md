@@ -4,7 +4,7 @@ I am a senior at lehigh graduating in May 2025. I'm studying Statistics and Fina
 
 
 
-## Portfolio
+## Project Portfolio
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
@@ -56,15 +56,12 @@ I want to get exposure to different deal processes through my investment banking
 Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+---
 
-<!-- Upload your own photo and change the path -->
+## Contact Information
 
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
+Personal email: muzammiljawed2002@gmail.com     School email: muj225@lehigh.edu    
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
 
 ---
