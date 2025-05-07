@@ -32,26 +32,6 @@ Using data dictionaries, sentiment ratings, and financial topic word lists, 10-K
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 ## Career Objectives
 
 I want to get exposure to different deal processes through my investment banking role at Deutsche Bank. Afterwards, I aim to pivot to an investing role where I can leverage my knowledge in company analysis to identify undervalued opportunities in the Industrials and Commodities spaces. Investing required discipline in terms of understanding what a business is truly worth and not what it's being marketed as. I'm excited to build this investor lens!
