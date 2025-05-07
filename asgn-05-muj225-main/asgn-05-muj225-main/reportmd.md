@@ -28,9 +28,8 @@ overall relationships were very weak and didn\'t make any storng claims.
 The overall project findings showed me that while sentiment may play a
 role in stock price movement, there are other factors that have much
 weightier controbutions to the price returns.
-:::
 
-::: 
+
 # 2. DATA Section {#2-data-section}
 
 Sample 
@@ -64,9 +63,7 @@ and ML methods, I referenced the class code on the
 Build_Sample_Exercises file initially, and then made several
 modifications. The key modifications I made and their explanations are
 below: When I run the following code:
-:::
 
-::: 
 When I ran the following code:
 
 #print(\"LM Positive:\", len(sentiment_words\[\'LM_positive\'\]))
@@ -76,18 +73,14 @@ When I ran the following code:
 #print(\"ML Positive:\", len(sentiment_words\[\'ML_positive\'\]))
 
 #print(\"ML Negative:\", len(sentiment_words\[\'ML_negative\'\]))
-:::
 
-::: 
 I got the following word counts:
 
 -   LM Positive: 345
 -   LM Negative: 2305
 -   ML Positive: 75
 -   ML Negative: 94
-:::
 
-::: 
 # Modification 1: Created a load_sentiment_words() function
 I created a reusable load_sentiment_words() function to load sentiment words from
 the ML and LM sentiment dictionaries. The LM dictionary was filtered to
@@ -110,7 +103,6 @@ conditional logic code. Although i\'d expected varying results, I was
 quite shocked by how the firms had a very smilar positive sentiment
 ratio across the board
 
-::: 
 # Modification 3: Clearning HTML using BeautifulSoup and Regex
 
 Before any data cleaning, I sampled a few 10-k files to identify parts
@@ -121,9 +113,7 @@ cleaning, I found the precision of word matching to improve greatly for
 sentiment scoring. For this, I used regex and string operations to clean
 the data withough over-cleaning / removing valuable content in the text.
 
-:::
 
-::: 
 # Contextual Sentiment Analysis
 
 I decided to go with the following contextual sentiment approaches:
@@ -174,10 +164,9 @@ regex for a more advanced analysis.
 
 
 # Summary Statistics
-:::
 
 
-:::
+
 
 Intepretation of summary statistics: There are several interesting
 insights about the dataset from the summary statistics table above.
@@ -249,11 +238,9 @@ that the returns are all simulated data and reflect \"white noise\"
 rather than actual market behaviour. In a more accurate analysis, the
 return calculations based on actual price movements might reveal a
 completely difference picture.
-:::
 
-:::
 # 3. Results 
-:::
+
 
 
 # Discussion
