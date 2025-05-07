@@ -13,7 +13,7 @@ _**[Macro Drivers of Dollar Strength - A Cross-Currency Analysis](https://thered
 
 We analyzed how U.S. macroeconomic factors (like interest rates, inflation, and trade balance) impact the strength of the U.S. dollar against the world’s top currencies.
 
-<img src="images/modelresults.png?raw=true"/>
+<img src="images/modelresults.jpg?raw=true"/>
 
 
 
