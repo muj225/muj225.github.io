@@ -5,6 +5,7 @@ I’m a senior at Lehigh University, graduating in May 2025 with a dual major in
 I have a strong interest in commodities, the energy transition, and emerging technologies such as artificial intelligence. Having grown up across East Africa and South Asia, I’m also deeply engaged with topics related to emerging markets, economic development, and international relations.
 
 <img src="images/camel.jpg" width="200"/>
+
 ---
 
 ## Project Portfolio
