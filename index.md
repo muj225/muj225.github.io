@@ -18,6 +18,7 @@ Below is the 5 year forecast from the dashboard for USD-EUR, Macroeconomic Varia
 
 <img src="<img src="images/avp.jpg"/>?raw=true"/>
 
+<img src="<img src="images/forecast.jpg"/>?raw=true"/>
 
 ---
 
