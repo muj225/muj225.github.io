@@ -13,7 +13,7 @@ I have a strong interest in commodities, the energy transition, and emerging tec
 
 _**[Macro Drivers of Dollar Strength - A Cross-Currency Analysis](https://thereddestbulls.streamlit.app/)**_
 
-We analyzed how U.S. macroeconomic factors (like interest rates, inflation, and trade balance) impact the strength of the U.S. dollar against the world’s top currencies.
+I analyzed how U.S. macroeconomic factors (like interest rates, inflation, and trade balance) impact the strength of the U.S. dollar against the world’s top currencies.
 
 Below is the 5 year forecast from the dashboard for USD-EUR, Macroeconomic Variables (2.7% Interest Rate & 2.3% Inflation), XGBoost model
 
@@ -35,7 +35,7 @@ Using data dictionaries, sentiment ratings, and financial topic word lists, 10-K
 
 ## Career Objectives
 
-I want to get exposure to different deal processes through my investment banking role at Deutsche Bank. Afterwards, I aim to pivot to an investing role where I can leverage my knowledge in company analysis to identify undervalued opportunities in the Industrials and Commodities spaces. Investing required discipline in terms of understanding what a business is truly worth and not what it's being marketed as. I'm excited to build this investor lens!
+Through my investment banking role at Deutsche Bank, I’m eager to gain exposure to a variety of deal processes and deepen my understanding of corporate finance. Longer term, I aim to transition into an investing role where I can apply my skills in company analysis to identify undervalued opportunities, particularly in the Industrials and Commodities sectors. I believe successful investing requires the discipline to assess a company’s intrinsic value - beyond how it's marketed - and I’m excited to continue developing that investor mindset.
 
 ---
 
