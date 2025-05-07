@@ -66,7 +66,6 @@ In May 2022, I co-founded Lehigh University's chapter of Scholars of Finance (SO
 <img src="images/KKRSOF.jpg" width="400"/>
 ---
 
----
 
 ## Hobbies
 
