@@ -237,7 +237,7 @@ completely difference picture.
 
 # 3. Results 
 
-![Correlation Table](images/CorrelationTablejpg.jpg)
+![Correlation Table](asgn-05-muj225-main/asgn-05-muj225-main/Pictures/CorrelationTablejpg.jpg)
 
 
 
