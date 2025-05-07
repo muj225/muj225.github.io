@@ -1,5 +1,6 @@
 title: Muzammil Jawed # your name (or website title) here
-logo: "/images/headshot.jpeg?raw=true" # your photo (or logo) here
+logo: <img src="/images/headshot.jpeg?raw=true" width="200"/>
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://www.linkedin.com/in/muzammil-jawed/">LinkedIn</a> 
   <br>
