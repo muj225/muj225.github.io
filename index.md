@@ -16,8 +16,6 @@ We analyzed how U.S. macroeconomic factors (like interest rates, inflation, and 
 <img src="images/modelresults.jpg?raw=true"/>
 
 
-
-
 ---
 
 _**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
