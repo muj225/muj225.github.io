@@ -4,14 +4,15 @@ I am a senior at lehigh graduating in May 2025. I'm studying Statistics and Fina
 
 
 
-## Portfolio
+## Project Portfolio
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
 
-_**[test file](midterm_summary)**_
+_**[Macro Drivers of Dollar Strength - A Cross-Currency Analysis](https://thereddestbulls.streamlit.app/)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+We analyzed how U.S. macroeconomic factors (like interest rates, inflation, and trade balance) impact the strength of the U.S. dollar against the world’s top currencies.
+
 
 
 
@@ -47,9 +48,7 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I want to get exposure to different deal processes through my investment banking role at Deutsche Bank. Afterwards, I aim to pivot to an investing role where I can leverage my knowledge in company analysis to identify undervalued opportunities in the Industrials and Commodities spaces. Investing required discipline in terms of understanding what a business is truly worth and not what it's being marketed as. I'm excited to build this investor lens!
 
 ---
 
@@ -58,15 +57,12 @@ Sell yourself!
 Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+---
 
-<!-- Upload your own photo and change the path -->
+## Contact Information
 
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
+Personal email: muzammiljawed2002@gmail.com     School email: muj225@lehigh.edu    
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
 
 ---
