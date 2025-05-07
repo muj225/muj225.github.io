@@ -163,7 +163,7 @@ be extended by easily updating the world lists or even changing the
 regex for a more advanced analysis.
 
 
-# ntepretation of summary statistics
+# Intepretation of summary statistics
 
 There are several interesting insights about the dataset from the summary statistics table
 in the code Firstly, the LM sentiment scores are significantly greater than 
