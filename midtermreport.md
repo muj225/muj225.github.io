@@ -239,7 +239,7 @@ completely difference picture.
 
 ![Correlation Table](asgn-05-muj225-main/asgn-05-muj225-main/Pictures/CorrelationTablejpg.jpg)
 
-
+![Scatter Plot](asgn-05-muj225-main/asgn-05-muj225-main/Pictures/ScatterPlotjpg.jpg)
 
 
 
