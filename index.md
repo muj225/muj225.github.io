@@ -40,14 +40,15 @@ I want to get exposure to different deal processes through my investment banking
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I'm a supporter of Arsenal Football Club and the Pakistani national cricket team. I enjoy going on safari trips in Kenya and have a strong appreciation for house and Afrohouse music.
 
 ---
 ---
 
 ## Contact Information
 
-Personal email: muzammiljawed2002@gmail.com     School email: muj225@lehigh.edu    
+Personal email: muzammiljawed2002@gmail.com     
+School email: muj225@lehigh.edu    
 
 ---
 
