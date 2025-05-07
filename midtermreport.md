@@ -242,8 +242,6 @@ completely difference picture.
 ![Scatter Plot](asgn-05-muj225-main/asgn-05-muj225-main/Pictures/ScatterPlotjpg.jpg)
 
 
-
-
 # Discussion
 
 1.  LM vs ML Sentiment and returns Both the LM and ML sentiment measures
@@ -286,6 +284,6 @@ ML_Positive: 0.008 (t0_t2), 0.008 (t2_t10) ML_Negative: 0.009 (t0_t2),
 
 This tells me that any sentiment effect is quickly priced in and that
 there is no delayed reaction to 10-k tone in days after filing. This
-supports the efficient market hypothesis. I don\'t think it would be the
+supports the efficient market hypothesis. I don't think it would be the
 case if my returns were real and not simulated.
-:::
+
