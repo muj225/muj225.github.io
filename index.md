@@ -43,11 +43,11 @@ Through my investment banking role at Deutsche Bank, I’m eager to gain exposur
 
 ## Select Investment Experience at Lehigh's Dreyfus and Thompson Investment Portfolios
 
-1. Sumitomo Mitsui Banking Corporation (Dreyfus): Pitched right before Japan was anticipating a shift to positive interest rates
+1. Sumitomo Mitsui Banking Corporation (Dreyfus): Pitched to capture increased bank earnings due to Japan's shift towards positive interest rate policy
 
-2. Glencore (Dreyfus): Pitched in anticipation of a rebound of constructionend market recovery globally
+2. Glencore (Dreyfus): Pitched in anticipation of a rebound of global construction end market recovery 
    
-4. Silver ETF (Thompson): Pitched as an inflation hedge during rising interest rates in 2022, and again during the geopolitical tensions in the Middle East
+4. Silver ETF (Thompson): Inflation hedge during rising interest rates in 2022, and again during the geopolitical tensions in the Middle East
    
 6. KSA Saudi Arabia Oil & Financials ETF (Thompson): Pitched during commodities price volatility in 2022 and 2023, anticipating a surge in oil prices
    
