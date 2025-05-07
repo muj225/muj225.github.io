@@ -39,8 +39,6 @@ Through my investment banking role at Deutsche Bank, I’m eager to gain exposur
 
 ---
 
----
-
 ## Select Investment Experience at Lehigh's Dreyfus and Thompson Investment Portfolios
 
 1. Sumitomo Mitsui Banking Corporation (Dreyfus): Pitched to capture increased bank earnings due to Japan's shift towards positive interest rate policy
