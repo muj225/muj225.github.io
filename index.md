@@ -72,7 +72,6 @@ In May 2022, I co-founded Lehigh University's chapter of Scholars of Finance (SO
 I'm a supporter of Arsenal Football Club and the Pakistani national cricket team. I enjoy going on safari trips in Kenya and have a strong appreciation for house and Afrohouse music.
 
 ---
----
 
 ## Contact Information
 
