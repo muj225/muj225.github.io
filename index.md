@@ -20,7 +20,7 @@ Below is the 5 year forecast from the dashboard for USD-EUR, Macroeconomic Varia
 
 ---
 
-_**[Natural language processing 10-Ks to identify risks](asgn-05-muj225-main/asgn-05-muj225-main/report.ipynb)**_
+_**[Natural language processing 10-Ks to identify risks](asgn-05-muj225-main/asgn-05-muj225-main/reportmd.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
