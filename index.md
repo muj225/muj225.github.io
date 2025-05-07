@@ -63,6 +63,7 @@ Through my investment banking role at Deutsche Bank, I’m eager to gain exposur
 
 In May 2022, I co-founded Lehigh University's chapter of Scholars of Finance (SOF), an organization dedicated to fostering character and integrity in the next generation of finance leaders. While capital is one of the most powerful tools for advancing socio-economic prosperity, the finance industry often suffers from reputational challenges -amplified by bad actors and media portrayals like The Wolf of Wall Street. Through SOF, I’ve developed as a leader and found great fulfillment in helping grow our chapter from the ground up to over 100 members. We've hosted events with leading firms such as KKR and Chatham Financial, and participated in national leadership conferences at institutions like Point72, Deutsche Bank, and Princeton.
 
+<img src="images/KKRSOF.jpg" width="300"/>
 ---
 
 ---
