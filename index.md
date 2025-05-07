@@ -1,7 +1,5 @@
 ## About Me
 
----
-
 I’m a senior at Lehigh University, graduating in May 2025 with a dual major in Statistics and Finance. Upon graduation, I’ll be joining Deutsche Bank in New York City as part of the Industrials Investment Banking group.
 
 I have a strong interest in commodities, the energy transition, and emerging technologies such as artificial intelligence. Having grown up across East Africa and South Asia, I’m also deeply engaged with topics related to emerging markets, economic development, and international relations.
