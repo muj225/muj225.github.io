@@ -3,7 +3,7 @@
 HiI am a senior at lehigh graduating in May 2025. I'm studying Statistics and Finance. After graduation, I will be working at Deuthsche Bank in the Industrials group in NYC. I'm very interested in commodities, energy transition, and the emergence of new technologies (AI).
 I grew up moving across East Africa and South Asia and am also very interested in emerging markets economic development and international relations!
 
-<img src="images/camel.jpg" width="400"/>
+<img src="images/camel.jpg" width="200"/>
 
 ## Project Portfolio
 
