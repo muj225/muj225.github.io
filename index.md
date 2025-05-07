@@ -9,9 +9,10 @@ I am a senior at lehigh graduating in May 2025. I'm studying Statistics and Fina
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
 
-_**[test file](https://thereddestbulls.streamlit.app/)**_
+_**[Macro Drivers of Dollar Strength - A Cross-Currency Analysis](https://thereddestbulls.streamlit.app/)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+We analyzed how U.S. macroeconomic factors (like interest rates, inflation, and trade balance) impact the strength of the U.S. dollar against the world’s top currencies.
+
 
 
 
