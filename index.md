@@ -70,7 +70,7 @@ amplified by bad actors and media portrayals like The Wolf of Wall Street. Throu
 ---
 ## Hobbies
 
-I'm a supporter of Arsenal Football Club and the Pakistani national cricket team. I enjoy going on safari trips in Kenya and enjoy listeining to house and Afrohouse music.
+I'm a supporter of Arsenal Football Club and the Pakistani national cricket team. I enjoy going on safari trips in Kenya and enjoy listening to house and Afrohouse music.
 
 ---
 
