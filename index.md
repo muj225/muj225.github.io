@@ -16,7 +16,7 @@ We analyzed how U.S. macroeconomic factors (like interest rates, inflation, and 
 
 Below is the 5 year forecast from the dashboard for USD-EUR, Macroeconomic Variables (2.7% Interest Rate & 2.3% Inflation), XGBoost model
 
-<img src="images/modelresultsjpg.jpg?raw=true"/>
+<img src="<img src="images/avp.jpg"/>?raw=true"/>
 
 
 ---
