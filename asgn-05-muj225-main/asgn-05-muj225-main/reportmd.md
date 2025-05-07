@@ -163,15 +163,11 @@ be extended by easily updating the world lists or even changing the
 regex for a more advanced analysis.
 
 
-# Summary Statistics
+# ntepretation of summary statistics
 
-
-
-
-Intepretation of summary statistics: There are several interesting
-insights about the dataset from the summary statistics table above.
-Firstly, the LM sentiment scores are significantly greater than the ML
-scores. I think this discrepency is because the LM dictionary is simply
+There are several interesting insights about the dataset from the summary statistics table
+in the code Firstly, the LM sentiment scores are significantly greater than 
+the ML scores. I think this discrepency is because the LM dictionary is simply
 larger and tracks more words as positive and negative. The positive and
 negative sentiment ratios also tell me that while firms in general
 report more neautral or negative wording, the ML picks up more positive
