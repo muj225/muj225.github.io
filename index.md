@@ -66,7 +66,7 @@ In May 2022, I co-founded Lehigh University's chapter of Scholars of Finance (SO
 <img src="images/KKRSOF.jpg" width="400"/>
 ---
 
-
+---
 ## Hobbies
 
 I'm a supporter of Arsenal Football Club and the Pakistani national cricket team. I enjoy going on safari trips in Kenya and have a strong appreciation for house and Afrohouse music.
@@ -81,4 +81,3 @@ School email: muj225@lehigh.edu
 
 ---
 
----
