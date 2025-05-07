@@ -25,7 +25,7 @@ Below is the 5 year forecast from the dashboard for USD-EUR, Macroeconomic Varia
 
 _**[Natural language processing 10-Ks to identify risks](midtermreport.md)**_
 
-Using data dictionaries, sentiment ratings, and financial topic word lists, 10-K filings from S&P 500 firms were analyzed and compared with stock returns around their filing dates to identify correlations between document sentiment and market performance.
+Using data dictionaries, sentiment ratings, and financial topic word lists, I analyzed 10-K filings from S&P 500 firms and compared with stock returns around their filing dates to identify correlations between document sentiment and market performance.
 
 <img src="images/correlationscores.jpg"/>
 
