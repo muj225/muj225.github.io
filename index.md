@@ -39,6 +39,21 @@ Through my investment banking role at Deutsche Bank, I’m eager to gain exposur
 
 ---
 
+---
+
+## Select Investment Experience at Lehigh's Dreyfus and Thompson Investment Portfolios
+
+Sumitomo Mitsui Banking Corporation (Dreyfus): Pitched right before Japan was anticipating a shift to positive interest rates
+Glencore (Dreyfus): Pitched in anticipation of a rebound of constructionend market recovery globally
+Silver ETF (Thompson): Pitched as an inflation hedge during rising interest rates in 2022, and again during the geopolitical tensions in the Middle East
+KSA Saudi Arabia Oil & Financials ETF (Thompson): Pitched during commodities price volatility in 2022 and 2023, anticipating a surge in oil prices
+EFA Developed Markets ETF (Thompson): Pitched for exposure to non-US developed market economies
+KXI Consumer Staples ETF (Thompson): Pitched as a reallocation towards macro-economic resilient consumer staples companies during recent heightened inflation and tariff risk
+EMB Emerging Markets Bond ETF (Thompson): Pitched to benefit from weakening U.S. dollar, enhancing the value of foreign-currency-denominated bond payments converted to USD
+
+
+---
+
 ## Hobbies
 
 I'm a supporter of Arsenal Football Club and the Pakistani national cricket team. I enjoy going on safari trips in Kenya and have a strong appreciation for house and Afrohouse music.
